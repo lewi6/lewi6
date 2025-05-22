@@ -7,13 +7,14 @@
 
 - 🌱 I’m currently exploring **Product Design & ThreeJs**
 
-<!-- - 👨‍💻 Some of my projects are available at [https://e-mpano.rw](https://e-mpano.rw) -->
+ - 👨‍💻 Some of my projects are available here [https://iz-lewis6](https://iz-lewi6.vercel.app/) 
 
 - 💬 Ask me about **The Javascript Ecosystem**
 
 - 📫 How to reach me **izerelewis6@gmail.com**
 
 - 📄 Know about my experience [link to my resume](https://drive.google.com/file/d/15uRJuEe3A9jpx9cb4Age3dmu7pB3PfNz/view?usp=sharing)
+- 
 
 
 <!-- - ⚡ Fun fact **My Elo Rating is nearly 1,800** -->
